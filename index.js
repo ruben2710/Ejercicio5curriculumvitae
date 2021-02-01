@@ -1,9 +1,9 @@
-// Botones en la experiencia laboral, cambio de color. 
+// Semaforo en la experiencia laboral, cambio de color. 
 
 const experiencialaboral = document.querySelector(".hola");
 
 function cambiocolorblue() {
-    experiencialaboral.style.backgroundColor = 'blue';
+    experiencialaboral.style.backgroundColor = 'lightblue';
   };
 
   function cambiocolorwhite() {
